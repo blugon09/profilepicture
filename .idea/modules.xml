@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BlueBot.iml" filepath="$PROJECT_DIR$/BlueBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profilepicture.iml" filepath="$PROJECT_DIR$/profilepicture.iml" />
     </modules>
   </component>
 </project>
